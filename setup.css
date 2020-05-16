@@ -2,3 +2,24 @@
     text-align: center
 }
 
+.body {background-image: image();}
+
+.main-nav li.active a
+{
+  border: 1px solid white;
+}
+.main-nav li a:hover
+{
+  border: 1px solid white;
+}
+.main-nav li
+{
+  display: inline-block;
+}
+
+#projects
+{
+background-size: cover;
+background-position: center;
+  background-image:url(imageOne.jpg);
+}
