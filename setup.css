@@ -17,8 +17,7 @@
   display: inline-block;
 }
 
-#projects
-{
+background {
 background-size: cover;
 background-position: center;
   background-image:url(imageOne.jpg);
