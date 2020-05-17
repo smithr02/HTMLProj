@@ -2,21 +2,6 @@
     text-align: center
 }
 
-.body {background-image: image();}
-
-.main-nav li.active a
-{
-  border: 1px solid white;
-}
-.main-nav li a:hover
-{
-  border: 1px solid white;
-}
-.main-nav li
-{
-  display: inline-block;
-}
-
 .background {
 background-size: cover;
 background-position: center;
@@ -28,4 +13,27 @@ div.a{
     text-align: center;
 }
 
-text-align:center;display:block;
+#aboutme
+
+h5
+{
+color: black;
+font-size: 36px;
+font-family: 'Comic Sans MS';
+text-align: center;
+}
+h6
+{
+color: rgb(255, 255, 255);
+font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue';
+font-size: 20px;
+text-align: center;
+}
+h4
+{
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue';
+text-align: center;
+}
+
