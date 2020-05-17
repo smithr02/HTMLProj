@@ -17,8 +17,15 @@
   display: inline-block;
 }
 
-background {
+.background {
 background-size: cover;
 background-position: center;
   background-image:url(imageOne.jpg);
 }
+
+div.a{
+
+    text-align: center;
+}
+
+text-align:center;display:block;
