@@ -13,27 +13,109 @@ div.a{
     text-align: center;
 }
 
-#aboutme
+#index
+p{
 
-h5
+    background-color:blue;
+    color:white;
+}
+
+h2
 {
 color: black;
-font-size: 36px;
-font-family: 'Comic Sans MS';
+font-size: 75;
+font: 'Comic Sans MS';
 text-align: center;
 }
-h6
+h3
 {
 color: rgb(255, 255, 255);
-font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue';
-font-size: 20px;
+font: 'Comic Sans MS';
+font-size: 25px;
 text-align: center;
 }
 h4
 {
 color: rgb(255, 255, 255);
-font-size: 20px;
-font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue';
+font-size: 25px;
+font: 'Comic Sans MS';
 text-align: center;
 }
 
+#aboutme
+
+h1
+{
+color: black;
+font-size: 35px;
+font: 'Comic Sans MS';
+text-align: center;
+}
+h2
+{
+color: blue;
+font: 'Comic Sans MS';
+font-size: 25px;
+text-align: center;
+}
+h3
+{
+color: rgb(255, 255, 255);
+font-size: 25px;
+font: 'Comic Sans MS';
+text-align: center;
+}
+p
+{
+    color: blue
+}
+
+#projects
+
+h1
+{
+color: black;
+font-size: 35px;
+font: 'Comic Sans MS';
+text-align: center;
+}
+h2
+{
+color: rgb(255, 255, 255);
+font: 'Comic Sans MS';
+font-size: 25px;
+text-align: center;
+}
+h3
+{
+color: rgb(255, 255, 255);
+font-size: 25px;
+font: 'Comic Sans MS';
+text-align: center;
+}
+
+#contact
+
+h1
+{
+color: black;
+font-size: 35px;
+font-family: 'Comic Sans MS';
+text-align: center;
+}
+h2
+{
+color:blue;
+font: 'Comic Sans MS';
+font-size: 25px;
+text-align: center;
+}
+h3
+{
+color: red;
+font-size: 25px;
+font: 'Comic Sans MS';
+text-align: center;
+}
+
+ 
